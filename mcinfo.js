@@ -1,6 +1,6 @@
 const snekfetch = require('snekfetch') //npm i snekfetch
 const Discord = require('discord.js') //npm i discord.js
-expoorts.run = async (client, message, args) => {
+exports.run = async (client, message, args) => {
 
 const url = `https://mc-heads.net/minecraft/profile/${args[0]}`; //Aqui vai o link da api 
 snekfetch.get(url).then(resultado => { //Aqui damos get na url acima
