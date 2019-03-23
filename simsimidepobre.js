@@ -10,6 +10,6 @@ const resposta = r.body.messages.map(a => a.text)
 message.reply(resposta)
 //Comando básico, qualquer erro que vc tiver me chame no Discord
 //Discord: ! [M]Vini🔨#6945
-//Lembrando que o bot demorar pra responder.
+//Lembrando que o bot pode demorar pra responder.
 })
 }
