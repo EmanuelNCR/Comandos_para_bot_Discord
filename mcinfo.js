@@ -21,6 +21,6 @@ message.channnel.send(embed)
 //Um comando simples, qualquer erro entre em contado comigo no Discord
 //Discord: ! [M]rVini 🔨#6945
 
-}
 })
+}
 
